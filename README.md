@@ -1,1 +1,1 @@
-# c-programming
+# Practicing C Programming in Computer Lab
